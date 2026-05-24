@@ -1,4 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="8" fill="#1e3a5f"/>
-  <text x="32" y="44" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#d4a853" text-anchor="middle">B</text>
+  <rect width="64" height="64" rx="10" fill="#0B5F2D"/>
+  <g transform="translate(8 8)">
+    <rect x="0"  y="0"  width="10" height="10" fill="#F2A900"/>
+    <rect x="12" y="0"  width="10" height="10" fill="#F2A900"/>
+    <rect x="24" y="0"  width="10" height="10" fill="#F2A900"/>
+    <rect x="36" y="0"  width="10" height="10" fill="#F2A900"/>
+    <rect x="0"  y="38" width="10" height="10" fill="rgba(255,255,255,0.18)"/>
+    <rect x="12" y="38" width="10" height="10" fill="rgba(255,255,255,0.18)"/>
+    <rect x="24" y="38" width="10" height="10" fill="rgba(255,255,255,0.18)"/>
+    <rect x="36" y="38" width="10" height="10" fill="rgba(255,255,255,0.18)"/>
+  </g>
 </svg>
